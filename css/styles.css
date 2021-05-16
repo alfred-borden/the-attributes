@@ -1,0 +1,29 @@
+body {
+  font-family: 'Martel', serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+}
+
+.button {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+body {
+  background-color: #fff5d7;
+}
+
+.navbar {
+  border-bottom: 1px solid black;
+}
+
+.nav-link, .nav-link:hover {
+  color: #db3f32 !important;
+}
