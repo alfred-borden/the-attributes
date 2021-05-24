@@ -1,26 +1,32 @@
 body {
   font-family: 'Martel', serif;
-  font-weight: 400; }
+  font-weight: 400;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Karla', sans-serif;
-  font-weight: 700; }
+  font-weight: 700;
+}
 
 .button {
   font-family: 'Karla', sans-serif;
   font-weight: 700;
   font-size: 13px;
   text-transform: uppercase;
-  letter-spacing: 3px; }
+  letter-spacing: 3px;
+}
 
 .navbar {
-  border-bottom: 1px solid black; }
+  border-bottom: 1px solid black;
+}
 
 .nav-link, .nav-link:hover {
-  color: #db3f32; }
+  color: #db3f32;
+}
 
 .card {
   display: inline-flex;
   min-width: 18rem;
   max-width: 18rem;
-  min-height: 525px; }
+  min-height: 525px;
+}
