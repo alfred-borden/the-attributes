@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   letter-spacing: 3px; }
 
-.navbar {
+.navbar, .modal-header {
   box-shadow: 0 12px 40px rgba(128, 50, 0, 0.15); }
 
 .nav-link {
@@ -30,11 +30,18 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
   color: rgba(0, 0, 0, 0.7); }
 
+.modal-header {
+  background-color: #555147;
+  color: white; }
+
+.close {
+  color: white; }
+
 .card-body {
   min-height: 220px; }
 
 .card {
-  box-shadow: 0 16px 40px rgba(128, 50, 0, 0.15);
+  box-shadow: 0 16px 16px rgba(128, 50, 0, 0.15);
   border-radius: 1rem; }
 
 .card-img-top {
@@ -46,4 +53,4 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom-right-radius: 1rem; }
 
 footer {
-  box-shadow: 0 -12px 40px rgba(128, 50, 0, 0.15); }
+  box-shadow: 0 -12px 30px rgba(128, 50, 0, 0.15); }
